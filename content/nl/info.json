@@ -1,0 +1,138 @@
+{
+  "veelgestelde-vragen": {
+    "hero": {
+      "eyebrow": "FAQ",
+      "title": "Veelgestelde vragen",
+      "text": "Antwoorden op de meestgestelde vragen over onze behandelingen en opleidingen. Staat je vraag er niet bij? Neem gerust contact met ons op.",
+      "breadcrumb": "Veelgestelde vragen"
+    },
+    "faq": {
+      "title": "",
+      "items": [
+        {
+          "q": "Hoe lang blijft permanente make-up mooi?",
+          "a": "Afhankelijk van de behandeling en je huidtype gemiddeld 1 tot 3 jaar. Een jaarlijkse touch-up houdt het resultaat fris."
+        },
+        {
+          "q": "Doet een behandeling pijn?",
+          "a": "We werken met een verdovende crème, waardoor de meeste klanten de behandeling als goed te verdragen ervaren."
+        },
+        {
+          "q": "Hoe verloopt het genezingsproces?",
+          "a": "De huid geneest in ongeveer 4 tot 6 weken. In die periode vervaagt de kleur licht naar het uiteindelijke, natuurlijke resultaat."
+        },
+        {
+          "q": "Kan ik in aanmerking komen voor UWV-subsidie voor een opleiding?",
+          "a": "In sommige gevallen wel. Vraag ernaar tijdens je intake, dan bekijken we de mogelijkheden samen."
+        },
+        {
+          "q": "Zijn jullie GGD-gecertificeerd?",
+          "a": "Ja, wij werken volgens de hoogste hygiënestandaarden en beschikken over de vereiste GGD-vergunning."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Nog een vraag?",
+      "text": "We helpen je graag verder. Neem gerust contact met ons op.",
+      "primaryLabel": "Neem contact op",
+      "primaryUrl": "/contact"
+    }
+  },
+  "werken-bij-izzi-beauty": {
+    "hero": {
+      "eyebrow": "Vacatures",
+      "title": "Werken bij IZZI Beauty",
+      "text": "Word onderdeel van ons team van gepassioneerde specialisten. Bekijk onze mogelijkheden en solliciteer.",
+      "breadcrumb": "Werken Bij"
+    },
+    "image": "",
+    "body": [
+      {
+        "heading": "Wie zoeken wij?",
+        "paragraphs": [
+          "Wij zijn regelmatig op zoek naar enthousiaste, gedreven PMU-artiesten en schoonheidsspecialisten die ons team komen versterken."
+        ],
+        "checklist": [
+          "Gecertificeerd of in opleiding",
+          "Oog voor detail en natuurlijk resultaat",
+          "Klantgericht en representatief"
+        ]
+      },
+      {
+        "heading": "Wat bieden wij?",
+        "paragraphs": [
+          "Een fijne werkomgeving, ruimte voor ontwikkeling via onze academy en de kans om te werken met de nieuwste technieken en producten."
+        ]
+      }
+    ],
+    "cta": {
+      "title": "Interesse?",
+      "text": "Stuur je motivatie en cv via het contactformulier. We nemen snel contact met je op.",
+      "primaryLabel": "Solliciteer nu",
+      "primaryUrl": "/contact"
+    }
+  },
+  "uwv-subsidie": {
+    "hero": {
+      "eyebrow": "Subsidie",
+      "title": "UWV Subsidie op PMU & Beauty Opleidingen",
+      "text": "Onder bepaalde voorwaarden kom je in aanmerking voor UWV-subsidie op onze opleidingen. Ontdek de mogelijkheden.",
+      "breadcrumb": "UWV Subsidie"
+    },
+    "image": "",
+    "body": [
+      {
+        "heading": "Wat is UWV-subsidie?",
+        "paragraphs": [
+          "Via het UWV zijn er in sommige gevallen mogelijkheden om (een deel van) de opleidingskosten vergoed te krijgen, bijvoorbeeld bij een re-integratietraject."
+        ]
+      },
+      {
+        "heading": "Kom ik in aanmerking?",
+        "paragraphs": [
+          "Of je in aanmerking komt hangt af van je persoonlijke situatie. Neem contact met ons op, dan bekijken we samen de mogelijkheden en helpen we je met de aanvraag."
+        ]
+      }
+    ],
+    "cta": {
+      "title": "Vraag naar de mogelijkheden",
+      "text": "We helpen je graag met de aanvraag en beantwoorden al je vragen.",
+      "primaryLabel": "Neem contact op",
+      "primaryUrl": "/contact"
+    }
+  },
+  "ggd-gecertificeerd": {
+    "hero": {
+      "eyebrow": "Veiligheid",
+      "title": "GGD Vergunning & Certificering",
+      "text": "IZZI Beauty werkt volgens de hoogste hygiënestandaarden en beschikt over de vereiste GGD-vergunning.",
+      "breadcrumb": "GGD Vergunning"
+    },
+    "image": "",
+    "body": [
+      {
+        "heading": "Veilig en hygiënisch",
+        "paragraphs": [
+          "Permanente make-up valt onder de vergunningsplicht. Wij voldoen aan alle eisen van de GGD op het gebied van hygiëne, sterilisatie en veiligheid."
+        ],
+        "checklist": [
+          "GGD-vergunning aanwezig",
+          "Steriele, wegwerpbare materialen",
+          "Werken volgens hygiëneprotocol"
+        ]
+      },
+      {
+        "heading": "Jouw veiligheid voorop",
+        "paragraphs": [
+          "Je gezondheid en veiligheid staan bij ons altijd op de eerste plaats. Heb je vragen over onze werkwijze? Stel ze gerust."
+        ]
+      }
+    ],
+    "cta": {
+      "title": "Vragen over onze werkwijze?",
+      "text": "Neem gerust contact met ons op voor meer informatie.",
+      "primaryLabel": "Neem contact op",
+      "primaryUrl": "/contact"
+    }
+  }
+}

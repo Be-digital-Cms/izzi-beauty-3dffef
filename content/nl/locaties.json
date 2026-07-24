@@ -1,0 +1,65 @@
+{
+  "amsterdam": {
+    "city": "Amsterdam",
+    "hero": {
+      "eyebrow": "Wenkbrauwen Amsterdam",
+      "title": "Permanente Wenkbrauwen in Amsterdam",
+      "text": "Op zoek naar natuurlijke, gedefinieerde wenkbrauwen in Amsterdam? Bij IZZI Beauty ben je aan het juiste adres voor Powder Brows, Combi Brows en meer.",
+      "breadcrumb": "Wenkbrauwen Amsterdam"
+    },
+    "image": "",
+    "intro": "IZZI Beauty is dé specialist in permanente make-up in Amsterdam. In onze studio verzorgen we natuurlijke, langhoudende wenkbrauwen die perfect bij jouw gezicht passen.",
+    "body": [
+      {
+        "heading": "Permanente make-up in Amsterdam",
+        "paragraphs": [
+          "Onze Amsterdamse studio is gemakkelijk bereikbaar en volledig ingericht op comfort en hygiëne. Of je nu kiest voor Ombré Powder Brows, Combi Brows of een kleurcorrectie — je bent bij ons in ervaren handen.",
+          "Elke behandeling start met een persoonlijk intakegesprek, zodat we de vorm en kleur perfect op jou afstemmen."
+        ],
+        "checklist": [
+          "Ervaren, gecertificeerde specialisten",
+          "Natuurlijk en langhoudend resultaat",
+          "GGD-gecertificeerd en hygiënisch",
+          "Centraal gelegen in Amsterdam"
+        ]
+      },
+      {
+        "heading": "Onze behandelingen in Amsterdam",
+        "paragraphs": [
+          "Naast wenkbrauwbehandelingen kun je bij ons ook terecht voor Lip Blush, Permanente Eyeliner en Faux Freckles. Bekijk al onze behandelingen of maak direct een afspraak."
+        ]
+      }
+    ],
+    "faq": {
+      "title": "Veelgestelde vragen",
+      "items": [
+        {
+          "q": "Waar is de studio in Amsterdam?",
+          "a": "Onze studio bevindt zich aan het Koningin Wilhelminaplein 13, goed bereikbaar met openbaar vervoer en de auto."
+        },
+        {
+          "q": "Kan ik dezelfde week terecht?",
+          "a": "Vaak wel. Neem contact met ons op voor de actuele beschikbaarheid."
+        }
+      ]
+    },
+    "location": {
+      "name": "IZZI Beauty Amsterdam",
+      "city": "Amsterdam",
+      "address": "Koningin Wilhelminaplein 13",
+      "postcode": "1062 HH Amsterdam",
+      "phone": "+31 6 11 76 88 81",
+      "hours": "Ma–Za · 09:00 – 18:00",
+      "mapUrl": "https://maps.google.com/?q=Koningin+Wilhelminaplein+13+Amsterdam"
+    },
+    "cta": {
+      "script": "Wenkbrauwen in Amsterdam",
+      "title": "Maak een afspraak in Amsterdam",
+      "text": "Plan je intakegesprek en ontdek wat wij voor jou kunnen betekenen.",
+      "primaryLabel": "Afspraak maken",
+      "primaryUrl": "/contact",
+      "secondaryLabel": "Bekijk behandelingen",
+      "secondaryUrl": "/behandelingen"
+    }
+  }
+}

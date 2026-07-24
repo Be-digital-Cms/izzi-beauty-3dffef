@@ -1,0 +1,66 @@
+{
+  "index": {
+    "hero": {
+      "eyebrow": "Blog",
+      "title": "Nieuws & tips over permanente make-up",
+      "text": "Lees onze artikelen boordevol tips, uitleg en inspiratie over permanente make-up, wenkbrauwen, lippen en meer.",
+      "breadcrumb": "Blog"
+    },
+    "cta": {
+      "script": "Blijf op de hoogte",
+      "title": "Klaar voor jouw behandeling?",
+      "text": "Maak vrijblijvend een afspraak voor een persoonlijk intakegesprek.",
+      "primaryLabel": "Afspraak maken",
+      "primaryUrl": "/contact",
+      "secondaryLabel": "Bekijk behandelingen",
+      "secondaryUrl": "/behandelingen"
+    }
+  },
+  "posts": {
+    "5-redenen-om-te-kiezen-voor-permanente-make-up": {
+      "title": "5 redenen om te kiezen voor permanente make-up",
+      "excerpt": "Overweeg je permanente make-up? Dit zijn de vijf belangrijkste voordelen die je moet weten.",
+      "image": "",
+      "author": "IZZI Beauty",
+      "date": "2026-01-15",
+      "category": "Tips",
+      "body": [
+        {
+          "paragraphs": [
+            "Permanente make-up wordt steeds populairder — en niet zonder reden. In dit artikel zetten we de vijf belangrijkste voordelen voor je op een rij."
+          ]
+        },
+        {
+          "heading": "1. Tijdsbesparing",
+          "paragraphs": [
+            "Nooit meer elke ochtend je wenkbrauwen bijwerken. Met permanente make-up sta je altijd verzorgd op."
+          ]
+        },
+        {
+          "heading": "2. Natuurlijk resultaat",
+          "paragraphs": [
+            "Moderne technieken zoals Powder Brows geven een subtiel, natuurlijk resultaat dat perfect bij je gezicht past."
+          ]
+        },
+        {
+          "heading": "3. Langhoudend",
+          "paragraphs": [
+            "Een behandeling blijft gemiddeld 1 tot 3 jaar mooi, afhankelijk van je huidtype en verzorging."
+          ]
+        },
+        {
+          "heading": "4. Handig bij gevoelige ogen of allergieën",
+          "paragraphs": [
+            "Geen gedoe meer met make-up die uitloopt of irriteert."
+          ]
+        },
+        {
+          "heading": "5. Altijd zelfverzekerd",
+          "paragraphs": [
+            "Je voelt je verzorgd, of je nu net wakker bent of gaat sporten. Dit is een voorbeeldartikel — vervang de tekst en afbeelding via het CMS."
+          ]
+        }
+      ]
+    }
+  }
+}

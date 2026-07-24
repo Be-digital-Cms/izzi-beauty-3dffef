@@ -1,0 +1,9 @@
+{
+  "$comment": "301-redirects van de oude, geneste detail-URLs naar de nieuwe vlakke URLs (/<categorie>/<slug> -> /<slug>). Generieke :slug-regels dekken elke pagina in een categorie in een keer. next.config.ts breidt ze per taal uit. LET OP: als twee pagina's dezelfde slug deelden (bv. een behandeling en een opleiding 'lip-blush') en er is er een hernoemd, voeg dan voor die ene een SPECIFIEKE regel toe VOOR de generieke, met de nieuwe slug als bestemming.",
+  "redirects": [
+    { "source": "/behandelingen/:slug", "destination": "/:slug", "permanent": true },
+    { "source": "/opleidingen/:slug", "destination": "/:slug", "permanent": true },
+    { "source": "/blog/:slug", "destination": "/:slug", "permanent": true },
+    { "source": "/wenkbrauwen/:slug", "destination": "/:slug", "permanent": true }
+  ]
+}

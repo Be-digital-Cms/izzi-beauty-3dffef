@@ -1,0 +1,105 @@
+{
+  "powder-brows": {
+    "hero": {
+      "eyebrow": "Wenkbrauwen",
+      "title": "Ombré Powder Brows",
+      "text": "Zacht vervaagde, poederachtige wenkbrauwen met een natuurlijk, opgemaakt effect dat jarenlang mooi blijft.",
+      "breadcrumb": "Ombré Powder Brows"
+    },
+    "image": "",
+    "intro": "Ombré Powder Brows geven je wenkbrauwen een zachte, poederachtige look — alsof ze net licht zijn opgemaakt. De techniek zorgt voor een natuurlijke overgang van licht naar donker, ideaal voor iedereen die vollere, gedefinieerde wenkbrauwen wil zonder dagelijks bijwerken.",
+    "body": [
+      {
+        "heading": "Wat zijn Ombré Powder Brows?",
+        "paragraphs": [
+          "Bij Ombré Powder Brows brengen we met een fijne naaldtechniek kleine pigmentpuntjes aan in de huid. Zo ontstaat een zacht poeder-effect dat vooraan lichter is en naar achteren donkerder wordt — precies zoals opgemaakte wenkbrauwen.",
+          "De behandeling is geschikt voor vrijwel elk huidtype en geeft een langhoudend, natuurlijk resultaat."
+        ],
+        "checklist": [
+          "Natuurlijk poeder-effect",
+          "Geschikt voor elk huidtype",
+          "Langhoudend resultaat (1–3 jaar)",
+          "Inclusief nabehandeling"
+        ]
+      },
+      {
+        "heading": "Voor wie is deze behandeling?",
+        "paragraphs": [
+          "Powder Brows zijn ideaal als je dunne, ongelijke of vervaagde wenkbrauwen hebt, of simpelweg tijd wilt besparen op je dagelijkse routine. Ook bij een vette huid geeft deze techniek een mooi, egaal resultaat."
+        ]
+      }
+    ],
+    "steps": {
+      "title": "Zo verloopt de behandeling",
+      "items": [
+        {
+          "title": "Intake & vormbepaling",
+          "text": "We bespreken je wensen en tekenen samen de perfecte vorm en kleur voor jouw gezicht."
+        },
+        {
+          "title": "De behandeling",
+          "text": "Met een fijne techniek brengen we het pigment zorgvuldig en pijnarm aan."
+        },
+        {
+          "title": "Nazorg",
+          "text": "Je krijgt duidelijke nazorginstructies mee voor een optimaal genezingsproces."
+        },
+        {
+          "title": "Touch-up",
+          "text": "Na 6–8 weken volgt een touch-up om het resultaat te perfectioneren."
+        }
+      ]
+    },
+    "faq": {
+      "title": "Veelgestelde vragen",
+      "items": [
+        {
+          "q": "Doet de behandeling pijn?",
+          "a": "We werken met een verdovende crème, waardoor de meeste klanten de behandeling als goed te verdragen ervaren."
+        },
+        {
+          "q": "Hoe lang blijven Powder Brows mooi?",
+          "a": "Gemiddeld 1 tot 3 jaar, afhankelijk van je huidtype en verzorging. Een jaarlijkse touch-up houdt het resultaat fris."
+        },
+        {
+          "q": "Hoe lang duurt het genezingsproces?",
+          "a": "De huid geneest in ongeveer 4 tot 6 weken. In die periode vervaagt de kleur licht naar het uiteindelijke, natuurlijke resultaat."
+        }
+      ]
+    },
+    "aside": {
+      "factsTitle": "In het kort",
+      "facts": [
+        {
+          "k": "Duur",
+          "v": "± 2,5 uur"
+        },
+        {
+          "k": "Houdbaarheid",
+          "v": "1–3 jaar"
+        },
+        {
+          "k": "Touch-up",
+          "v": "Na 6–8 weken"
+        },
+        {
+          "k": "Verdoving",
+          "v": "Ja"
+        }
+      ],
+      "ctaTitle": "Klaar voor perfecte brows?",
+      "ctaText": "Plan je intakegesprek en ontdek wat Ombré Powder Brows voor jou kunnen betekenen.",
+      "ctaLabel": "Afspraak maken",
+      "ctaUrl": "/contact"
+    },
+    "cta": {
+      "script": "Jouw perfecte wenkbrauwen",
+      "title": "Boek je Powder Brows behandeling",
+      "text": "Maak vrijblijvend een afspraak voor een persoonlijk intakegesprek.",
+      "primaryLabel": "Afspraak maken",
+      "primaryUrl": "/contact",
+      "secondaryLabel": "Bekijk alle behandelingen",
+      "secondaryUrl": "/behandelingen"
+    }
+  }
+}

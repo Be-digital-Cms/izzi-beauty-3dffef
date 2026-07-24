@@ -1,0 +1,6 @@
+{
+  "$comment": "Per-site i18n configuration, controlled by the BE Digital CMS tenant toggle. `enabled` turns multi-language routing on/off. `locales` is the list of ACTIVE language codes (each must have a matching content/<code>/ folder and be present in lib/locales.ts SUPPORTED_LOCALES). `defaultLocale` is served at the site root. When enabled is false the site behaves as a single-language site in defaultLocale.",
+  "enabled": false,
+  "defaultLocale": "nl",
+  "locales": ["nl"]
+}

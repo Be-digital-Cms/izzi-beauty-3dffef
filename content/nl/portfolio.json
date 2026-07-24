@@ -1,0 +1,29 @@
+{
+  "hero": {
+    "eyebrow": "Portfolio",
+    "title": "Ons werk",
+    "text": "Een selectie van onze behandelingen. Bekijk de natuurlijke, verzorgde resultaten van onze permanente make-up specialisten.",
+    "breadcrumb": "Portfolio"
+  },
+  "intro": "Elke behandeling is maatwerk. Deze voorbeelden geven een indruk van wat er mogelijk is — jouw resultaat bepalen we samen tijdens de intake.",
+  "images": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "cta": {
+    "script": "Jouw resultaat begint hier",
+    "title": "Klaar voor jouw transformatie?",
+    "text": "Maak vrijblijvend een afspraak voor een persoonlijk intakegesprek.",
+    "primaryLabel": "Afspraak maken",
+    "primaryUrl": "/contact",
+    "secondaryLabel": "Bekijk behandelingen",
+    "secondaryUrl": "/behandelingen"
+  }
+}
